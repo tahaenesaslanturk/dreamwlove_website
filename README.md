@@ -11,7 +11,7 @@ __NOTE:__ You cannot enter the website because I did not put registration page t
 
 
 ## MOBILE APP VIDEO
-https://user-images.githubusercontent.com/11196635/133630127-331abbda-cd81-4cb6-8647-c6fbd6b21002.mp4
+[Mobile video]https://user-images.githubusercontent.com/11196635/133630127-331abbda-cd81-4cb6-8647-c6fbd6b21002.mp4
 
 ## WEB APP VIDEO
 https://user-images.githubusercontent.com/11196635/133630295-639a560c-a631-4db8-b86d-02f54f3cdb4d.mov
